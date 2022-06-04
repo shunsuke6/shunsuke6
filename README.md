@@ -1,7 +1,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunsuke6&count_private=true&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shunsuke6&count_private=true&layout=compact&theme=onedark
-)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![](https://raw.githubusercontent.com/shunsuke6/prifile/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 
 
 - 👋 Hi, I’m @shunsuke6
