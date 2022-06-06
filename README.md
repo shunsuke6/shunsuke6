@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunsuke6&count_private=true&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/shunsuke6/profile/master/profile-summary-card-output/github_dark/3-stats.svg)
 -
 
 
