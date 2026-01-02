@@ -1,9 +1,11 @@
+
 ![](https://raw.githubusercontent.com/shunsuke6/profile/master/profile-summary-card-output/github_dark/3-stats.svg)
 -
 
 [![](https://raw.githubusercontent.com/shunsuke6/profile/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shunsuke6/profile/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
+![](https://komarev.com/ghpvc/?username=shunsuke6&style=flat-square&color=grey)
 <!---
 - 👋 Hi, I’m @shunsuke6
 - 👀 I’m interested in Go,Python,AWS
